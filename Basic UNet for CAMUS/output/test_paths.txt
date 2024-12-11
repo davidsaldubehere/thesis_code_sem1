@@ -1,0 +1,10 @@
+dataset/train/images/patient0001_2CH_ED.nii
+dataset/train/images/patient0002_2CH_ED.nii
+dataset/train/images/patient0003_2CH_ED.nii
+dataset/train/images/patient0004_2CH_ED.nii
+dataset/train/images/patient0005_2CH_ED.nii
+dataset/train/images/patient0006_2CH_ED.nii
+dataset/train/images/patient0007_2CH_ED.nii
+dataset/train/images/patient0008_2CH_ED.nii
+dataset/train/images/patient0009_2CH_ED.nii
+dataset/train/images/patient0010_2CH_ED.nii
